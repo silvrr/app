@@ -11,7 +11,7 @@
                                         <key>kind</key>
                                         <string>software-package</string>
                                         <key>url</key>
-                                        <string>http://app.silvrr.io:8080/inner/download/Silvrr.ipa.test.ipa</string>
+                                        <string>http://app.silvrr.io:8080/inner/download/Silvrr.ipa</string>
                                 </dict>
                                 <dict>
                                         <key>kind</key>
