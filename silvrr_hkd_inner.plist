@@ -25,7 +25,7 @@
                         <key>metadata</key>
                         <dict>
                                 <key>bundle-identifier</key>
-                                <string>com.silvrr.hkdinhouse</string>
+                                <string>com.silvrr.phpinhouse</string>
                                 <key>bundle-version</key>
                                 <string>1.0.1</string>
                                 <key>kind</key>
